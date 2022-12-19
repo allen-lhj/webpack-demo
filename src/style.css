@@ -1,0 +1,10 @@
+.hello {
+  color: red;
+  width: 400px;
+  height: 700px;
+  background: url('./icon.jpeg');
+}
+.hello img {
+  width: 100%;
+  height: 100%;
+}
